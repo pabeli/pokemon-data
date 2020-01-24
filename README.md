@@ -1,1 +1,1 @@
-# pokemon-data Prject
+# pokemon-data Project
